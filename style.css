@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@700&display=swap');
+
+
+
+
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: 'Tourney', 'cursive';
+}
+
+.btn{
+    border: none;
+}
+
+.search-box{
+    margin-left:200px;
+    
+}
+.search-box input{
+   width: 300px;
+
+}
+.carousel-inner{
+    height: 550px;;
+}
+
+.card img{
+    width: 140px;
+}
+
+
+.card{
+    border: none;
+    background-color: #f2f8fd;
+    height: 330px;
+}
+
+.container{
+    margin-bottom: 78px;
+}
+
+.slider_button{
+    display: flex;
+    justify-content: center;
+    margin-top:-10px;
+}
+hr{
+    margin:80px 0;
+}
+
+
+.position-absolute{
+    right: 0;
+}
+
+.Future{
+    height:500px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
